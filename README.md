@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.AKILA</h1>
+<div align="center"> <img src ="https://github.com/AkilaSwaminathan1/AkilaSwaminathan1/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png"></div>
 <h3 align="center">DATA SCIENTIST</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
