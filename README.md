@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.AKILA</h1>
 <h3 align="center">DATA SCIENTIST</h3>
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
 
 - 🔭 I’m currently working on **Machine learning and MERN projects**
 
